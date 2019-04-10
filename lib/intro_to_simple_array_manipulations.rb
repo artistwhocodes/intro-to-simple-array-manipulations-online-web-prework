@@ -16,5 +16,9 @@ def pop_with_args(array)
   return new_array
 end
 
+def using_shift(array)
+  new_array = array.shift
+  return new_array
+end
 
 #learn --fail-fast
