@@ -31,6 +31,7 @@ def using_concat(array, array_two)
 end
 
 def using_insert(array , element)
-  element.insert(4)
+  wtf = element.insert(4)
+  return wtf
 end
 #learn --fail-fast
