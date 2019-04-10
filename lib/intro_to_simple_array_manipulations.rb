@@ -21,4 +21,8 @@ def using_shift(array)
   return new_array
 end
 
+def shift_with_args(array)
+  new_array = array.shift(2)
+  return new_array
+end
 #learn --fail-fast
