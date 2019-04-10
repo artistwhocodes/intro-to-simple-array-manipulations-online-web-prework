@@ -6,4 +6,7 @@ def using_unshift( array , string)
   array.unshift(string)
 end
 
+def using_unshift(string)
+  array.pop 
+end
 #learn --fail-fast
