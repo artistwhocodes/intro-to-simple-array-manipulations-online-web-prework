@@ -25,4 +25,8 @@ def shift_with_args(array)
   new_array = array.shift(2)
   return new_array
 end
+
+def using_concat(array, array_two)
+  array.concat(array_two)
+end
 #learn --fail-fast
