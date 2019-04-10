@@ -7,7 +7,7 @@ def using_unshift( array , string)
 end
 
 def using_pop(string)
-  array.pop
-  return array
+  []].pop
+   
 end
 #learn --fail-fast
