@@ -8,5 +8,6 @@ end
 
 def using_pop(string)
   array.pop
+  return array
 end
 #learn --fail-fast
