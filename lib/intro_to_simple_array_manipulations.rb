@@ -34,4 +34,8 @@ def using_insert(array , element)
   wtf = array.insert(4 , element)
   return wtf
 end
+
+def using_uniq(array)
+  array.uniq
+end
 #learn --fail-fast
