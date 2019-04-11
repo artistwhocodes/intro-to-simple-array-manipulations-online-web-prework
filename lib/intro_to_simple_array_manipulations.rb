@@ -43,4 +43,8 @@ def using_flatten(array)
   idk = array.flatten
   return idk
 end
+
+def using_delete(array, string)
+  string.delete
+end
 #learn --fail-fast
